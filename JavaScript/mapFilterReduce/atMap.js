@@ -8,6 +8,8 @@ let modifiedArr = arr.map(function (element) {
 console.log(modifiedArr);
 */ 
 
+
+
 //Com this
 const maca = {
     value :2,
